@@ -18,7 +18,7 @@ A novice programmer whose first language is python and now expanding through fro
   <summary>⚡<h4>Fun facts</h4></summary>
     - 👓 Favorite Colours -> 🔵⚪⚫🟣<br>
     - ☕ Cups of tea -> anime, UI/UX designing, books, documentaries, gaming, lego & many more :P<br>
-    - ✋ Primary hand -> left ;]
+    - ✋ Primary hand -> left ;]<br>
     - 🎭 MBTI -> INFJ :>  
 </details>
 <hr></hr>
