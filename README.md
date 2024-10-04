@@ -60,9 +60,9 @@ A novice programmer whose first language is python and now expanding through fro
 </div>
 <hr></hr>
 <h2>Currently listening...</h2>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amudae5udqjpzmn5x4fj6zt7v4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ae4cdc&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31amudae5udqjpzmn5x4fj6zt7v4&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31amudae5udqjpzmn5x4fj6zt7v4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=427bff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <h2>My stats</h2>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja-noodle&show_icons=true&theme=transparent)
