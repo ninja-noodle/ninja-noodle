@@ -59,12 +59,5 @@ A novice programmer whose first language is python and now expanding through fro
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
 </div>
 <hr></hr>
-<h2>Currently listening...</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31amudae5udqjpzmn5x4fj6zt7v4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ae4cdc&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31amudae5udqjpzmn5x4fj6zt7v4&redirect=true)
-
-<h2>My stats</h2>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ninja-noodle&show_icons=true&theme=transparent)
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-noodle&hide_progress=true&show_icons=true&theme=transparent)
 
